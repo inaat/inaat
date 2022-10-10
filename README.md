@@ -18,7 +18,7 @@ I am a Laravel & Front End Web Enthusiast from Indonesia <img width="21px" src="
 - 📚 I’m currently learning FrontEnd Framework & Laravel
 - 📚 I'm currently learning Flutter ML
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?usernameinaat&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=inaat&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
 <br/>
 
 **Languages and Tools:**
@@ -35,4 +35,4 @@ I am a Laravel & Front End Web Enthusiast from Indonesia <img width="21px" src="
 
 <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?usernameinaat&layout=compact&theme=algolia"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inaat&layout=compact&theme=algolia"/>
