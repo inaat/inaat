@@ -1,19 +1,14 @@
 ### Hello World 🌍 I'm [Inayat Ullah!] 👋
 
-<a href="https://youtube.com/abdulazizahwanID">
+<a href="https://www.youtube.com/c/ExplaineRKhaN">
   <img align="left" alt="Inayat Ullah | YouTube" width="24px" src="/assets/youtube.svg"/>
 </a>
-<a href="https://twitter.com/abdulazizahwan">
-  <img align="left" alt="Inayat Ullah  | Twitter" width="24px" src="/assets/twitter.svg"/>
-</a>
-<a href="https://discord.com/invite/aNEPJcP">
-  <img align="left" alt="Inayat Ullah's Discord" width="24px" src="/assets/discord.svg"/>
-</a>
+>
 
 <br />
 <br />
 
-I am a Laravel & Front End Web Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
+I am a Laravel & Front End Web Enthusiast from Pakistan 
 
 - 📚 I’m currently learning FrontEnd Framework & Laravel
 - 📚 I'm currently learning Flutter ML
@@ -27,7 +22,6 @@ I am a Laravel & Front End Web Enthusiast from Indonesia <img width="21px" src="
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/Laravel/Laravel.png"></code>
 
 <br/>
 
