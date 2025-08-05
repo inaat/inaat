@@ -15,7 +15,7 @@
 
 ## 🎯 **About Me**
 
-```typescript
+```javascript
 const inayat = {
     location: "Pakistan 🇵🇰",
     experience: "5+ Years",
@@ -222,7 +222,10 @@ graph LR
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=inaat&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   
+![Profile Views](https://komarev.com/ghpvc/?username=inaat&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/inaat?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/inaat?label=Stars&style=social)
+
   **⭐ If you like my work, consider giving my repositories a star!**
 </div>
