@@ -25,10 +25,10 @@ const inayat = {
     passion: ["Clean Code", "Scalable Architecture", "Knowledge Sharing"],
     
     currentFocus: {
-        backend: ["Laravel", "PHP", "System Design"],
-        frontend: ["Vue.js", "JavaScript", "Responsive Design"],
+        backend: ["Laravel", "PHP", "Django", "Flask", "Node.js", "Express.js", "System Design"],
+        frontend: ["Vue.js", "Next.js", "JavaScript", "Responsive Design"],
         mobile: ["Flutter", "Dart"],
-        databases: ["MySQL", "SQL Server"],
+        databases: ["MySQL", "SQL Server", "PostgreSQL"],
         learning: ["Machine Learning", "Cloud Architecture"]
     },
     
