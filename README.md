@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/34300966?v=4&size=128" alt="Inayat Ullah" width="128" height="128" style="border-radius: 50%; border: 3px solid #58A6FF;"/>
+
 # 👋 Hello, I'm **Inayat Ullah**
 ### 🚀 Full Stack Developer | System Architect | Tech Content Creator
 
